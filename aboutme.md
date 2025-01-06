@@ -19,14 +19,14 @@ subtitle: Welcome to Siegfried's (he/they) Profile 👋
 
 ## Conferences
 
-SeqBim 2023 - Towards an edit distance between pangenome graphs
-DSB 2024 - Towards an edit distance between pangenome graphs
-MIGGS 2024 - Interfacing pangenome graphs using pancat
++ SeqBim 2023 - Towards an edit distance between pangenome graphs
++ DSB 2024 - Towards an edit distance between pangenome graphs
++ MIGGS 2024 - Interfacing pangenome graphs using pancat
 
 ## Papers
 
-*Pairwise graph edit distance characterizes the impact of the construction method on pangenome graphs*
-Siegfried Dubois, Claire Lemaitre, Matthias Zytnicki, Thomas Faraut
+*Pairwise graph edit distance characterizes the impact of the construction method on pangenome graphs*.
+Siegfried Dubois, Claire Lemaitre, Matthias Zytnicki and Thomas Faraut.
 **bioRxiv** <a href="https://doi.org/10.1101/2024.12.06.627166">2024.12.06.627166</a>.
 
 ## Other
