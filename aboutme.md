@@ -24,10 +24,10 @@ subtitle: Welcome to Siegfried's (he/they) Profile 👋
 
 ## Papers
 
-*Pairwise graph edit distance characterizes the impact of the construction method on pangenome graphs*.
++ *Pairwise graph edit distance characterizes the impact of the construction method on pangenome graphs*.
 Siegfried Dubois, Claire Lemaitre, Matthias Zytnicki and Thomas Faraut.
 **bioRxiv** <a href="https://doi.org/10.1101/2024.12.06.627166">2024.12.06.627166</a>.
 
 ## Other
 
-PC member of **SeqBim 2024**
++ PC member of **SeqBim 2024**
