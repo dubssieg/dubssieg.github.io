@@ -5,7 +5,7 @@ subtitle: Welcome to Siegfried's (he/they) Profile 👋
 ---
 
 <p>I'm currently working on pangenome graphs in the <a href="https://team.inria.fr/genscale/">GenScale research team</a>.</p>
-<img align="right" src="https://media0.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif?cid=ecf05e47bb0hgrsikylgsh2289rijyzzf3eax81o0ptdbrxv&rid=giphy.gif&ct=s" width="300" height="300">
+<img align="right" src="/assets/img/polly_la_best.gif" width="300" height="300">
 <ul>
   <li>❤️ I love algorithm creation, optimization and obfuscation.</li>
   <li>🌱 I’m currently mainly a Python and Rust developper.</li>
