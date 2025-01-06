@@ -19,9 +19,8 @@ subtitle: Welcome to Siegfried's (he/they) Profile 👋
 
 ## Conferences
 
-+ SeqBim 2023 - Towards an edit distance between pangenome graphs
-+ DSB 2024 - Towards an edit distance between pangenome graphs
-+ MIGGS 2024 - Interfacing pangenome graphs using pancat
++ SeqBim 2023 & DSB 2024 - *Towards an edit distance between pangenome graphs*.
++ MIGGS 2024 - *Interfacing pangenome graphs using pancat*.
 
 ## Papers
 
