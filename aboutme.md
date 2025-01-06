@@ -14,3 +14,21 @@ subtitle: Welcome to Siegfried's (he/they) Profile 👋
   <li>🎥 I do enjoy filmmaking, and have many ongoing projects.</li>
   <li>🐱 I may like cats, also. Maybe a lil' too much. Meaow.</li>
 </ul>
+
+# Academic work
+
+## Conferences
+
+SeqBim 2023 - Towards an edit distance between pangenome graphs
+DSB 2024 - Towards an edit distance between pangenome graphs
+MIGGS 2024 - Interfacing pangenome graphs using pancat
+
+## Papers
+
+*Pairwise graph edit distance characterizes the impact of the construction method on pangenome graphs*
+Siegfried Dubois, Claire Lemaitre, Matthias Zytnicki, Thomas Faraut
+**bioRxiv** <a href="https://doi.org/10.1101/2024.12.06.627166">2024.12.06.627166</a>.
+
+## Other
+
+PC member of **SeqBim 2024**
